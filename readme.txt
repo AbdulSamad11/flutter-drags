@@ -1,3 +1,11 @@
+Interaction Model Widgets..................
+Touch Interactions
+Absorb Pointer
+Dismissible
+Drag Target
+Draggable
+
+
 https://api.flutter.dev/flutter/widgets/AbsorbPointer-class.html
 
 https://flutter.dev/docs/cookbook/gestures/dismissible
